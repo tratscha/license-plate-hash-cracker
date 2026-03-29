@@ -48,20 +48,14 @@ Example:
 ## Project Structure
 
 ```text
-license-plate-hash-cracker/
+
 ├── main.py
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── data/
-│   └── sample_target.json
+│
 ├── modules/
-│   ├── __init__.py
-│   ├── config.py
 │   ├── generator.py
 │   ├── hasher.py
 │   ├── bruteforce.py
-│   ├── collision.py
-│   └── io_utils.py
-├── results/
-└── screenshots/
+│   └── collision.py
