@@ -51,11 +51,10 @@ Example:
 
 ├── main.py
 ├── README.md
-├── requirements.txt
 ├── .gitignore
 │
 ├── modules/
 │   ├── generator.py
 │   ├── hasher.py
 │   ├── bruteforce.py
-│   └── collision.py
+    └── collision.py
